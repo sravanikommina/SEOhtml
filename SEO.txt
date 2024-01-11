@@ -1,0 +1,11 @@
+1.SEO and Its importance?
+Ans: SEO stands for Search Engine Optimization and we give information of our website in meta tags and title tags and it is a practice to increases accessibility and traffic to website.when a user searches for something in search engine then it goes through our website content and displays related websites to user.So, It very good to maintain website content more readable to search engine. 
+
+3.Benefits of using meta tags?
+Ans:Meta tags give information about website to search engine and people who are reading your site.
+title tag is like name of webpage.which give details about a particular webpage.
+viewport tag impact the display of content on different devices.
+description tag is gives details of website which will display when searchengine diaplsy our site to user.
+
+5.Fevicon and example?
+Ans: Fevicon is image which is displayed on left side of title bar of a website and it is visual representation of website and they are very small in size images.Google recommends websites to use fevicon for their websites to increase the impression on the website when they look at the title bar,which will inturn increases the traffic of website.
